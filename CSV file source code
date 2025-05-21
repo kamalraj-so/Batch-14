@@ -1,0 +1,16 @@
+Post_ID,Username,Post_Text,Timestamp,Emotion_Label
+1,user123,"I just got a promotion at work! So thrilled!",2025-05-20 08:32:00,joy
+2,coolguy98,"Ugh, why is traffic always this bad? I'm so annoyed.",2025-05-20 09:15:23,anger
+3,bookworm01,"Finished the final chapter... I can't stop crying.",2025-05-20 10:47:12,sadness
+4,happyfeet,"Best day ever at the beach with friends!",2025-05-20 11:03:55,joy
+5,techgeek,"My laptop just died right before the meeting. Great.",2025-05-20 11:45:00,anger
+6,curiouscat,"I just found out penguins have knees?!",2025-05-20 12:08:19,surprise
+7,dreamer22,"Feeling so low today. Nothing seems to help.",2025-05-20 12:45:30,sadness
+8,foodielover,"OMG this sushi is beyond amazing!",2025-05-20 13:02:44,joy
+9,runnergirl,"Twisted my ankle mid-run... what a terrible day.",2025-05-20 13:25:10,sadness
+10,gamerboss,"Wait, that plot twist just blew my mind!",2025-05-20 14:11:33,surprise
+11,sarcastickid,"Oh wow, another software update. Just what I needed.",2025-05-20 14:55:27,anger
+12,hopefulone,"So proud of myself for finishing the race!",2025-05-20 15:03:48,joy
+13,skywatcher,"Saw a shooting star tonight. Totally unexpected!",2025-05-20 15:40:00,surprise
+14,melancholyme,"No one seems to understand what I'm going through.",2025-05-20 16:12:20,sadness
+15,newsjunkie,"Can't believe what just happened in the elections!",2025-05-20 16:45:55,surprise
